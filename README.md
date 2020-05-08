@@ -5,7 +5,7 @@ I had to complete a project in my school's COSC 320 class and chose graph isomor
 I decided to create brute force algorithms to solve both the Graph Isomorphism Problem and the Induced Subgraph Isomorphism Problem.  These algorthims run in factorial time, which is awful.  However, my goal was to solve the problem by any way necessary.
 
 ### Guide
-The code is very easy to use.  It takes in two graphs by reading two separate tect files containing adjacency matrices.  For example:
+The code is very easy to use.  It takes in two graphs by reading two separate text files containing adjacency matrices.  For example:
 
     4
     0 1 0 1
